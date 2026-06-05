@@ -1,16 +1,29 @@
-# React + Vite
+# Dummy Data Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web en React que consume la API pública de [DummyJSON](https://dummyjson.com/products) para mostrar un listado de productos con sus propiedades principales.
 
-Currently, two official plugins are available:
+## Tecnologías usadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- [React](https://react.dev/) + [Vite](https://vitejs.dev/)
+- [React Router DOM](https://reactrouter.com/)
+- [Shadcn/ui](https://ui.shadcn.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-## React Compiler
+## Pasos para ejecutar
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+git clone https://github.com/TU_USUARIO/dummydata-react.git
+cd dummydata-react
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
+Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Deploy
+
+🔗 [Ver aplicación en producción](URL_DEL_DEPLOY)
+
+## Video demostrativo
+
+▶️ [Ver en YouTube](URL_DEL_VIDEO)
