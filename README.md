@@ -22,7 +22,7 @@ Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
 
 ## Deploy
 
-🔗 [Ver aplicación en producción](URL_DEL_DEPLOY)
+🔗 [Ver aplicación en producción](https://ex-p-3.vercel.app/)
 
 ## Video demostrativo
 
