@@ -12,7 +12,7 @@ Aplicación web en React que consume la API pública de [DummyJSON](https://dumm
 ## Pasos para ejecutar
 
 ```bash
-git clone https://github.com/TU_USUARIO/dummydata-react.git
+git clone https://github.com/gllanos09/dummydata-react
 cd dummydata-react
 npm install
 npm run dev
