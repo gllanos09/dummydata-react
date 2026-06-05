@@ -26,4 +26,4 @@ Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
 
 ## Video demostrativo
 
-▶️ [Ver en YouTube](URL_DEL_VIDEO)
+▶️ [Ver en YouTube](https://youtu.be/foETIvqHV7g)
